@@ -2,7 +2,7 @@
 
  ## Architecture Diagram:
 
-<img width="1010" height="366" alt="image" src="https://github.com/user-attachments/assets/7dece79b-4d6a-4b82-9a33-d59397f1ac01" />
+<img width="985" height="333" alt="image" src="https://github.com/user-attachments/assets/597252be-f9c6-4d17-9d72-c269d93eb642" />
 
  ### Step 1: Configuring Azure
 
